@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.kf.sdk5</groupId>
-  <artifactId>bridgeLib</artifactId>
+  <artifactId>bridge-lib</artifactId>
   <version>1.0.1</version>
   <packaging>aar</packaging>
-  <name>bridgeLib</name>
+  <name>bridge-lib</name>
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
