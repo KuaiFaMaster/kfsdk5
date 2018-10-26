@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.didi.virtualapk</groupId>
+  <artifactId>core-fixed</artifactId>
+  <version>0.9.6.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181019.074656</timestamp>
+      <buildNumber>8</buildNumber>
+    </snapshot>
+    <lastUpdated>20181019074656</lastUpdated>
+  </versioning>
+</metadata>
